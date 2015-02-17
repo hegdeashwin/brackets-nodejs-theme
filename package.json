@@ -1,0 +1,15 @@
+{
+    "name": "hegdeashwin.brackets-nodejs-theme",
+    "title": "Brackets Nodejs Theme",
+    "description": "This theme is for Nodejs developers",
+    "homepage": "https://github.com/hegdeashwin/brackets-nodejs-theme",
+    "version": "1.0.0",
+    "author": "Ashwin Hegde <hegde.ashwin@yahoo.com> (http://github.com/hegdeashwin)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
